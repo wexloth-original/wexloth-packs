@@ -1,1 +1,29 @@
-
+{
+  "id": "my-first-pack",
+  "name": "My First Pack",
+  "mcVersion": "1.20.1",
+  "modloader": "fabric",
+  "modloaderVersion": "0.15.11",
+  "mods": [
+    {
+      "name": "Sodium",
+      "filename": "sodium-mc1.20.1-0.5.3.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/..."
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "MyTexturePack",
+      "filename": "mytexturepack.zip",
+      "url": "https://..."
+    }
+  ],
+  "shaderpacks": [
+    {
+      "name": "ComplementaryShaders",
+      "filename": "ComplementaryShaders_v4.7.2.zip",
+      "url": "https://..."
+    }
+  ],
+  "configUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/wexloth-packs/main/packs/my-first-pack/configs.zip"
+}
