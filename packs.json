@@ -7,7 +7,8 @@
     "modloader": "fabric",
     "modloaderVersion": "0.15.11",
     "description": "My custom modpack.",
-    "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/wexloth-packs/main/packs/my-first-pack/icon.png",
-    "manifestUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/wexloth-packs/main/packs/my-first-pack/pack.json"
+    "preferredRam": 4096,
+    "icon": "https://raw.githubusercontent.com/wexloth-original/wexloth-packs/main/packs/my-first-pack/icon.png",
+    "manifestUrl": "https://raw.githubusercontent.com/wexloth-original/wexloth-packs/main/packs/my-first-pack/pack.json"
   }
 ]

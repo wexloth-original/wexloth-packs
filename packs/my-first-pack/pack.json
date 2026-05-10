@@ -1,9 +1,11 @@
 {
   "id": "my-first-pack",
   "name": "My First Pack",
+  "version": "1.0.0",
   "mcVersion": "1.20.1",
   "modloader": "fabric",
   "modloaderVersion": "0.15.11",
+  "preferredRam": 4096,
   "mods": [
     {
       "name": "Sodium",
@@ -25,5 +27,5 @@
       "url": "https://..."
     }
   ],
-  "configUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/wexloth-packs/main/packs/my-first-pack/configs.zip"
+  "configUrl": "https://raw.githubusercontent.com/wexloth-original/wexloth-packs/main/packs/my-first-pack/configs.zip"
 }
