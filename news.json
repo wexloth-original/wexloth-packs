@@ -1,5 +1,12 @@
 [
   {
+    "id": "2",
+    "title": "Wexloth Launcher — First Update!",
+    "date": "2026-05-10",
+    "content": "We have pushed several improvements to the launcher: faster downloads, better Java detection, named profile folders, and a folder shortcut on every profile card. Keep the feedback coming!",
+    "image": "https://raw.githubusercontent.com/wexloth-original/wexloth-packs/main/assets/news/update1.png"
+  },
+  {
     "id": "1",
     "title": "Welcome to Wexloth Launcher!",
     "date": "2026-05-10",
